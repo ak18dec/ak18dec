@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **System Design Preparation**
 
-- 👨‍💻 All of my projects are available at [github.com/ak18dec](github.com/ak18dec)
+- 👨‍💻 All of my projects are available at [https://github.com/ak18dec?tab=repositories](github.com/ak18dec/repositories)
 
 - 💬 Ask me about **Java, Spring Boot, Angular**
 
