@@ -18,10 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ankitdyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ankitdyl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ikumarankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikumarankit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ankit-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ankit-k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ak-its-simple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ak-its-simple" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/78b88ba5-c3f4-4f1f-9db1-7a918fa16770" target="blank"><img align="center" src="https://s3-ap-southeast-1.amazonaws.com/codestudio.codingninjas.com/codestudio/assets/images/guided-path-landing-ninja.svg" alt="ankitdyl" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ankit-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ankit-k" height="30" width="40" /></a>
+<a href="https://codepen.io/ankitdyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ankitdyl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
