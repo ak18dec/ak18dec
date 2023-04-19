@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Ankit Kumar 👋 </h1>
-<h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
+[![MasterHead](https://raw.githubusercontent.com/ak18dec/ak18dec/main/Black%20Modern%20Geometric%20Personal%20LinkedIn%20Banner%20(1).png)](https://www.linkedin.com/in/ikumarankit/)
+<p align="center">A passionate full-stack developer from India 🇮🇳</p>
+
 
 - 🔭 I’m currently working on [Exam Portal](https://ak18dec.github.io/exam-portal-angular/)
 
