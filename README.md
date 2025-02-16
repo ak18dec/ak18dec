@@ -2,7 +2,7 @@
 <p align="center">A passionate full-stack developer from India 🇮🇳</p>
 
 
-- 🔭 I’m currently working on [Exam Portal](https://ak18dec.github.io/exam-portal-angular/)
+- 🔭 I’m currently working on [TJA Bank App](https://github.com/ak18dec/the-java-academy-bank)
 
 - 🌱 I’m currently learning **Spring Security & Design Patterns**
 
