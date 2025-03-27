@@ -2,15 +2,15 @@
 <p align="center">A passionate full-stack developer from India 🇮🇳</p>
 
 
-- 🔭 I’m currently working on [TJA Bank App](https://github.com/ak18dec/the-java-academy-bank)
+- 🔭 I’m currently working on [Shoppit](https://ak18dec.github.io/shoppit/)
 
-- 🌱 I’m currently learning **Spring Security & Design Patterns**
+- 🌱 I’m currently learning **React 19**
 
 - 🤝 I’m looking for help with **System Design Preparation**
 
 - 👨‍💻 All of my projects are available at [projects](https://github.com/ak18dec?tab=repositories)
 
-- 💬 Ask me about **Java, Spring Boot, Angular**
+- 💬 Ask me about **Java, Spring Boot, Angular, React**
 
 - 📫 How to reach me **ankitdayal1992@gmail.com**
 
