@@ -56,4 +56,4 @@
 <br />
 
 ### GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ak18dec&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=ak18dec&theme=nord&no-frame=true&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,LongTimeUser,Followers,Issues,PullRequest)
