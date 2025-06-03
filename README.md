@@ -14,7 +14,7 @@
 <!-- rank_icon=percentile -->
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=ak18dec&hide_title=true&hide_border=true&show_icons=&include_all_commits=true&count_private=true&line_height=21&theme=nord" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=ak18dec&hide_title=true&hide_border=true&layout=compact&hide=html&theme=nord" />
 
-## Languages and Tools
+### Languages and Tools
 
 #### Backend
 ![Java](https://img.shields.io/badge/-Java-%233776AB?style=flat-square&logo=openjdk&logoColor=ffffff)
@@ -47,7 +47,7 @@
 
 
 
-## 🌐Socials
+### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikumarankit)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-%230077B5.svg?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/ak-its-simple) 
 [![Codingninjas](https://img.shields.io/badge/-Codingninjas-%230077B5.svg?style=flat-square&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/78b88ba5-c3f4-4f1f-9db1-7a918fa16770) 
@@ -55,5 +55,5 @@
 
 <br />
 
-## 🏆GitHub Trophies
+### GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ak18dec&theme=nord&no-frame=true&no-bg=false&margin-w=4)
