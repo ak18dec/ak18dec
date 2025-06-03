@@ -14,9 +14,6 @@
 <!-- rank_icon=percentile -->
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=ak18dec&hide_title=true&hide_border=true&show_icons=&include_all_commits=true&count_private=true&line_height=21&theme=nord" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=ak18dec&hide_title=true&hide_border=true&layout=compact&hide=html&theme=nord" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ak18dec&theme=nord&hide_border=true)
-
-
 ## Languages and Tools
 
 #### Backend
