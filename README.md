@@ -3,7 +3,9 @@
 ### A full stack web developer from India 
 🌱I'm currently learning **React 19** and **Microservices** Architecture
 
-🔭 I’m currently working on [Shoppit](https://ak18dec.github.io/shoppit/)
+🔭 I’m currently working on Shoppit E-commerce Application 
+  - [Frontend](https://github.com/ak18dec/shoppit) → React 19
+  - [Backend](https://github.com/ak18dec/shoppit-api) → Spring Boot Microservices
 
 💬 Ask me about **Java, Spring Boot, Angular, React**
 
