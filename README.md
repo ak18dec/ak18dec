@@ -1,10 +1,10 @@
 <h1 align="center">Hi there👋, I'm Ankit</h1>
 
 ### A full stack web developer from India 
-🌱I'm currently learning **React 19** and **Microservices** Architecture
+🌱I'm currently learning **Angular 19** and **Microservices** Architecture
 
 🔭 I’m currently working on Shoppit E-commerce Application 
-  - [Frontend](https://github.com/ak18dec/shoppit) → React 19
+  - [Frontend](https://ak18dec.github.io/shoppit-ng/) → Angular 19
   - [Backend](https://github.com/ak18dec/shoppit-api) → Spring Boot Microservices
 
 💬 Ask me about **Java, Spring Boot, Angular, React**
