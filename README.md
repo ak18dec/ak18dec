@@ -3,7 +3,7 @@
 ### A cloud native Java backend developer from India 
 🌱I'm currently learning **AWS** and **Microservices** Architecture
 
-🔭 I’m currently working on [Shoppit](https://ak18dec.github.io/shoppit/)
+🔭 I’m currently working on [BudgetAssist](https://github.com/ak18dec/budget-assist)
 
 💬 Ask me about **Java, Spring Boot, AWS, Docker**
 
