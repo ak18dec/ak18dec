@@ -3,7 +3,7 @@
 ### A cloud native Java backend developer from India 
 🌱I'm currently learning **AWS** and **Microservices** Architecture
 
-🔭 I’m currently building Fleetix(https://github.com/ak18dec/fleetix) - an fleet management application
+🔭 I’m currently building [Fleetix](https://github.com/ak18dec/fleetix) - an fleet management application
 
 💬 Ask me about **Java, Spring Boot, AWS, Docker**
 
