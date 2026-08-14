@@ -39,6 +39,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-%233776AB?style=flat-square&logo=docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%233776AB?style=flat-square&logo=amazon-web-services&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%233776AB?style=flat-square&logo=postman&logoColor=ffffff) 
+![Bruno](https://img.shields.io/badge/-Bruno-%233776AB?style=flat-square&logo=bruno&logoColor=ffffff)
 
 
 
